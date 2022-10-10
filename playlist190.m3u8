@@ -1,0 +1,566 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 11 - Repretel
+http://45.236.28.72:8000/play/a0ec/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 123 TV
+http://45.236.28.72:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 13-Sinart
+http://45.236.28.72:8000/play/a0bu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 4 - Repretel
+http://45.236.28.72:8000/play/a0fb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 42 - Extra TV 42
+http://45.236.28.72:8000/play/a0bv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 6 - Repretel
+http://45.236.28.72:8000/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 123 TV
+http://45.236.28.72:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 13-Sinart
+http://45.236.28.72:8000/play/a0bu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 4 - Repretel
+http://45.236.28.72:8000/play/a0fb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 42 - Extra TV 42
+http://45.236.28.72:8000/play/a0bv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 6 - Repretel
+http://45.236.28.72:8000/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet
+http://45.236.28.72:8000/play/a0fk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Antena 3
+http://45.236.28.72:8000/play/a0ho/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Antena 7- RD
+http://45.236.28.72:8000/play/a0cv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Atres Series
+http://45.236.28.72:8000/play/a0hu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Avila TV
+http://45.236.28.72:8000/play/a06e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Azcorazon
+http://45.236.28.72:8000/play/a0d9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Azmundo
+http://45.236.28.72:8000/play/a0fd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC World
+http://45.236.28.72:8000/play/a0dm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Baby First
+http://45.236.28.72:8000/play/a0eo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Baby TV
+http://45.236.28.72:8000/play/a0hl/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL 13 - NI
+http://45.236.28.72:8000/play/a0e5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL HABANA
+http://45.236.28.72:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL I
+http://45.236.28.72:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CARTOON NT HD
+http://45.236.28.72:8000/play/a0c3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CDN2- RD
+http://45.236.28.72:8000/play/a0e2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CDN37 - RD
+http://45.236.28.72:8000/play/a0fa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CERTV
+http://45.236.28.72:8000/play/a0fw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CGTN
+http://45.236.28.72:8000/play/a062/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINECANAL HD
+http://45.236.28.72:8000/play/a0fu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBEIA
+http://45.236.28.72:8000/play/a068/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 21 - ESA
+http://45.236.28.72:8000/play/a0g1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 10 - NIC
+http://45.236.28.72:8000/play/a0f7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 10 HD - ESA
+http://45.236.28.72:8000/play/a0i1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 11 - GUA
+http://45.236.28.72:8000/play/a0dv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 12 - ESA
+http://45.236.28.72:8000/play/a0dx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 12 - NI
+http://45.236.28.72:8000/play/a0cx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 13 - PAN
+http://45.236.28.72:8000/play/a0cy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 13-GUA
+http://45.236.28.72:8000/play/a0du/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 14 - NIC
+http://45.236.28.72:8000/play/a0e0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 2 - ESA
+http://45.236.28.72:8000/play/a0f3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 2 - NIC
+http://45.236.28.72:8000/play/a0f6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 2 - PAN
+http://45.236.28.72:8000/play/a0cz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 3 - GUA
+http://45.236.28.72:8000/play/a0f1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 4 - ESA
+http://45.236.28.72:8000/play/a0f2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 4 - NIC
+http://45.236.28.72:8000/play/a0fy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 4 - PAN
+http://45.236.28.72:8000/play/a0g0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 6 - ESA
+http://45.236.28.72:8000/play/a0dw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 6 - NI
+http://45.236.28.72:8000/play/a0e4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 7 - GUA
+http://45.236.28.72:8000/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 8 - NIC
+http://45.236.28.72:8000/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Antigua - GUA
+http://45.236.28.72:8000/play/a0ey/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Azteca - GUA
+http://45.236.28.72:8000/play/a0ez/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Claro HD
+http://45.236.28.72:8000/play/a0c2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Publico de Argentina
+http://45.236.28.72:8000/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Vasco
+http://45.236.28.72:8000/play/a06m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal del Congreso
+http://45.236.28.72:8000/play/a0hj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cartoonito
+http://45.236.28.72:8000/play/a0d3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cine Latino
+http://45.236.28.72:8000/play/a0gi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CineMax
+http://45.236.28.72:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Cinema
+http://45.236.28.72:8000/play/a0fq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Musica
+http://45.236.28.72:8000/play/a0ef/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Sports 1 SD
+http://45.236.28.72:8000/play/a0hv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Sports 2 HD
+http://45.236.28.72:8000/play/a0c1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Color Vision 9 - RD
+http://45.236.28.72:8000/play/a0f9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ConCiencia TV
+http://45.236.28.72:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Concert Channel
+http://45.236.28.72:8000/play/a0ge/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DHE
+http://45.236.28.72:8000/play/a0bx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digital 15 - RD
+http://45.236.28.72:8000/play/a0e1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Channel
+http://45.236.28.72:8000/play/a0fj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Home & Health
+http://45.236.28.72:8000/play/a0g9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Kids HD
+http://45.236.28.72:8000/play/a0i4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Science
+http://45.236.28.72:8000/play/a0hr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Turbo
+http://45.236.28.72:8000/play/a0g8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney
+http://45.236.28.72:8000/play/a0g6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney JR
+http://45.236.28.72:8000/play/a0d4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", E!
+http://45.236.28.72:8000/play/a0fg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN
+http://45.236.28.72:8000/play/a0fn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN +
+http://45.236.28.72:8000/play/a0dr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 2
+http://45.236.28.72:8000/play/a0fo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 3
+http://45.236.28.72:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 4 HD
+http://45.236.28.72:8000/play/a0gu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EURO Channel
+http://45.236.28.72:8000/play/a0er/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EWTN
+http://45.236.28.72:8000/play/a0dp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Gourmet
+http://45.236.28.72:8000/play/a0et/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Exa TV
+http://45.236.28.72:8000/play/a0fp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX Sports 2
+http://45.236.28.72:8000/play/a0ew/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FUTV CR
+http://45.236.28.72:8000/play/a0fx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX
+http://45.236.28.72:8000/play/a0ep/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film & Arts
+http://45.236.28.72:8000/play/a0bw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 13-Sinart
+http://45.236.28.72:8000/play/a0bu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", France24
+http://45.236.28.72:8000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 4 - Repretel
+http://45.236.28.72:8000/play/a0fb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 42 - Extra TV 42
+http://45.236.28.72:8000/play/a0bv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 6 - Repretel
+http://45.236.28.72:8000/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", H2
+http://45.236.28.72:8000/play/a0es/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Family HD
+http://45.236.28.72:8000/play/a0c7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO HD
+http://45.236.28.72:8000/play/a0c4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Plus HD
+http://45.236.28.72:8000/play/a0c6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO XTREME
+http://45.236.28.72:8000/play/a0c8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO2 HD
+http://45.236.28.72:8000/play/a0c5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HTV
+http://45.236.28.72:8000/play/a0eh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HispanTV
+http://45.236.28.72:8000/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History HD
+http://45.236.28.72:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hola!TV
+http://45.236.28.72:8000/play/a0hs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Home Garden Latino
+http://45.236.28.72:8000/play/a0hq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ID
+http://45.236.28.72:8000/play/a0ga/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ISAT
+http://45.236.28.72:8000/play/a0gg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LIFE TIME
+http://45.236.28.72:8000/play/a0de/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La voz de Maria
+http://45.236.28.72:8000/play/a0gb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latin America Sport
+http://45.236.28.72:8000/play/a0ee/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MASTV - PAN
+http://45.236.28.72:8000/play/a0e9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV
+http://45.236.28.72:8000/play/a0gd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV 00s
+http://45.236.28.72:8000/play/a0eg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV 80s
+http://45.236.28.72:8000/play/a0dh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV HD
+http://45.236.28.72:8000/play/a0ds/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV Hits
+http://45.236.28.72:8000/play/a0dg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mas Chic
+http://45.236.28.72:8000/play/a0hn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Meridiano
+http://45.236.28.72:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Multicinema
+http://45.236.28.72:8000/play/a0hy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Multimedios
+http://45.236.28.72:8000/play/a0bt/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Multipremier
+http://45.236.28.72:8000/play/a0gh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NEXT - PAN
+http://45.236.28.72:8000/play/a0e8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", National Geographic
+http://45.236.28.72:8000/play/a0dd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nicarao TV
+http://45.236.28.72:8000/play/a0d5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nick Jr
+http://45.236.28.72:8000/play/a0d2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nickelodeon
+http://45.236.28.72:8000/play/a0g5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Oromar TV
+http://45.236.28.72:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PXTV
+http://45.236.28.72:8000/play/a0hx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount
+http://45.236.28.72:8000/play/a0by/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Playboy
+http://45.236.28.72:8000/play/a0c9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RCN - GUA
+http://45.236.28.72:8000/play/a0hk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RCN Novelas
+http://45.236.28.72:8000/play/a0eq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RHEMA TV
+http://45.236.28.72:8000/play/a0gt/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SEMILLITAS
+http://45.236.28.72:8000/play/a0d6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SEO TV
+http://45.236.28.72:8000/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SERTV - PAN
+http://45.236.28.72:8000/play/a0hh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY HD
+http://45.236.28.72:8000/play/a0ft/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPACE HD
+http://45.236.28.72:8000/play/a0gw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR CHANNEL HD
+http://45.236.28.72:8000/play/a0fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ShowVen TV
+http://45.236.28.72:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Studio Universal
+http://45.236.28.72:8000/play/a0gk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sun Channel
+http://45.236.28.72:8000/play/a0eu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SyFy
+http://45.236.28.72:8000/play/a0fi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TBN Enlace
+http://45.236.28.72:8000/play/a0do/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TBS
+http://45.236.28.72:8000/play/a0dc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TCM
+http://45.236.28.72:8000/play/a0ej/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TD+2 HD CR
+http://45.236.28.72:8000/play/a0i3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TD+HD CR
+http://45.236.28.72:8000/play/a0i2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TELESUR
+http://45.236.28.72:8000/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLC
+http://45.236.28.72:8000/play/a0fm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLT HD
+http://45.236.28.72:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT
+http://45.236.28.72:8000/play/a0dj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT Series
+http://45.236.28.72:8000/play/a0db/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Max - PAN
+http://45.236.28.72:8000/play/a0fz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Galicia
+http://45.236.28.72:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Oriente ESA
+http://45.236.28.72:8000/play/a0hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVChile
+http://45.236.28.72:8000/play/a0hp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVE
+http://45.236.28.72:8000/play/a0hz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVES
+http://45.236.28.72:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVFANB
+http://45.236.28.72:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tele Antillas - RD
+http://45.236.28.72:8000/play/a0cu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TeleMicro - RD
+http://45.236.28.72:8000/play/a0f8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telecentro - RD
+http://45.236.28.72:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemundo
+http://45.236.28.72:8000/play/a0d8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telesistema RD
+http://45.236.28.72:8000/play/a0cw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Teleunion - RD
+http://45.236.28.72:8000/play/a0e7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Teleuniverso - RD
+http://45.236.28.72:8000/play/a0e3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Televen
+http://45.236.28.72:8000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Televida RD
+http://45.236.28.72:8000/play/a0bs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tooncast
+http://45.236.28.72:8000/play/a0fc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tru TV
+http://45.236.28.72:8000/play/a0d7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNITEL HD
+http://45.236.28.72:8000/play/a04f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIVERSAL CINEMA ESTE
+http://45.236.28.72:8000/play/a0bz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIVERSAL COMEDY
+http://45.236.28.72:8000/play/a0em/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIVERSAL CRIME
+http://45.236.28.72:8000/play/a0el/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIVERSAL PREMIERE
+http://45.236.28.72:8000/play/a0gr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIVERSAL PREMIERE O
+http://45.236.28.72:8000/play/a0gs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIVERSAL REALITY
+http://45.236.28.72:8000/play/a0ek/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Universal
+http://45.236.28.72:8000/play/a0gf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VENUS
+http://45.236.28.72:8000/play/a0en/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VEPACOTV
+http://45.236.28.72:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VTV
+http://45.236.28.72:8000/play/a063/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VTV Canal 35 ESA
+http://45.236.28.72:8000/play/a0ed/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Venevision
+http://45.236.28.72:8000/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Vive TV
+http://45.236.28.72:8000/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WARNER HD
+http://45.236.28.72:8000/play/a0fs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZooMoo
+http://45.236.28.72:8000/play/a0hm/index.m3u8
+
